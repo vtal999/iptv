@@ -696,7 +696,6 @@ https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8
 #EXTVLCOPT:http-user-agent=UA
 https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
 #EXTINF:-1 group-title="Наш Нет 🇺🇦", Суспільне Культура
-#EXTVLCOPT:http-user-agent=UA
 https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
 #EXTINF:-1 group-title="Наш Нет 🇺🇦", 8 Канал
 #EXTVLCOPT:http-user-agent=UA
