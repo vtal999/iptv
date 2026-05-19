@@ -1,444 +1,83 @@
-#EXTINF:0 tvg-rec="0",НТН HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/15011/index.m3u8
-#EXTINF:0 tvg-rec="0",Перший Міський FHD (Одеса) UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31737/index.m3u8
-#EXTINF:0 tvg-rec="0",ICTV 2 HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/15235/index.m3u8
-#EXTINF:0 tvg-rec="0",Наше Улюблене Кіно HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/15007/index.m3u8
-#EXTINF:0 tvg-rec="0",Сфера ТВ HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/15008/index.m3u8
-#EXTINF:0 tvg-rec="3",5 Канал UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/945/index.m3u8
-#EXTINF:0 tvg-rec="3",FilmBox orig
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/948/index.m3u8
-#EXTINF:0 tvg-rec="3",24 Канал FHD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/951/index.m3u8
-#EXTINF:0 tvg-rec="3",Надiя ТВ UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/956/index.m3u8
-#EXTINF:0 tvg-rec="3",EU Music HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/925/index.m3u8
-#EXTINF:0 tvg-rec="3",Мега UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/929/index.m3u8
-#EXTINF:0 tvg-rec="0",К1 UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31812/index.m3u8
-#EXTINF:0 tvg-rec="0",FilmUA Drama UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31805/index.m3u8
-#EXTINF:0 tvg-rec="0",Kino Comedy HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31814/index.m3u8
-#EXTINF:0 tvg-rec="0",FilmBox ArtHouse HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31807/index.m3u8
-#EXTINF:0 tvg-rec="0",Kino Premiere HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31815/index.m3u8
-#EXTINF:0 tvg-rec="0",Kino Action HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31813/index.m3u8
-#EXTINF:0 tvg-rec="0",FreeДом UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31810/index.m3u8
-#EXTINF:0 tvg-rec="0",FilmUA Live HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31808/index.m3u8
-#EXTINF:0 tvg-rec="0",Мега HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/15124/index.m3u8
-#EXTINF:0 tvg-rec="3",К2 UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/930/index.m3u8
-#EXTINF:0 tvg-rec="0",Дача UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31775/index.m3u8
-#EXTINF:0 tvg-rec="0",К2 HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/15126/index.m3u8
-#EXTINF:0 tvg-rec="0",К1 HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/15125/index.m3u8
-#EXTINF:0 tvg-rec="3",Kvartal TV UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/932/index.m3u8
-#EXTINF:0 tvg-rec="3",Новий Канал UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/935/index.m3u8
-#EXTINF:0 tvg-rec="0",Новий Канал HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/15128/index.m3u8
-#EXTINF:0 tvg-rec="3",НТН UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/936/index.m3u8
-#EXTINF:0 tvg-rec="3",4ever Music HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/970/index.m3u8
-#EXTINF:0 tvg-rec="3",Тернопіль 1 HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/975/index.m3u8
-#EXTINF:0 tvg-rec="3",Рада FHD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/976/index.m3u8
-#EXTINF:0 tvg-rec="3",Перший Міський HD (Одеса) UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/981/index.m3u8
-#EXTINF:0 tvg-rec="3",СК1 UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/982/index.m3u8
-#EXTINF:0 tvg-rec="3",1+1 Україна FHD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/987/index.m3u8
-#EXTINF:0 tvg-rec="3",Bolt FHD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/991/index.m3u8
-#EXTINF:0 tvg-rec="3",Star Cinema HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/992/index.m3u8
-#EXTINF:0 tvg-rec="3",Чернiвецький Промiнь UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/1004/index.m3u8
-#EXTINF:0 tvg-rec="3",Перший UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/1016/index.m3u8
-#EXTINF:0 tvg-rec="3",Суспільне Крим HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/1017/index.m3u8
-#EXTINF:0 tvg-rec="3",Obozrevatel TV HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/1028/index.m3u8
-#EXTINF:0 tvg-rec="3",5 Канал HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/1030/index.m3u8
-#EXTINF:0 tvg-rec="3",Інтер HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/1047/index.m3u8
-#EXTINF:0 tvg-rec="3",Рибалка FHD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/1058/index.m3u8
-#EXTINF:0 tvg-rec="3",1+1 Марафон UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/994/index.m3u8
-#EXTINF:0 tvg-rec="3",2+2 UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/995/index.m3u8
-#EXTINF:0 tvg-rec="3",ТВА HD (Чернівці) UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/998/index.m3u8
-#EXTINF:0 tvg-rec="3",Zoom UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/1000/index.m3u8
-#EXTINF:0 tvg-rec="0",Zoom HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/15130/index.m3u8
-#EXTINF:0 tvg-rec="3",ПлюсПлюс UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/1002/index.m3u8
-#EXTINF:0 tvg-rec="3",Eco TV HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/1006/index.m3u8
-#EXTINF:0 tvg-rec="3",ТЕТ UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/1009/index.m3u8
-#EXTINF:0 tvg-rec="3",Сонце UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/1013/index.m3u8
-#EXTINF:0 tvg-rec="3",Прямий HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/1015/index.m3u8
-#EXTINF:0 tvg-rec="3",Уніaн Серіал HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/1023/index.m3u8
-#EXTINF:0 tvg-rec="3",Київ UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/1045/index.m3u8
-#EXTINF:0 tvg-rec="3",8 Канал UA HD
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/1046/index.m3u8
-#EXTINF:0 tvg-rec="3",ТВА (Чернівці) UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/1072/index.m3u8
-#EXTINF:0 tvg-rec="3",24 Канал HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/1063/index.m3u8
-#EXTINF:0 tvg-rec="3",4 Канал HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/1039/index.m3u8
-#EXTINF:0 tvg-rec="3",Тернопіль 1 UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/5041/index.m3u8
-#EXTINF:0 tvg-rec="3",ICTV HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6302/index.m3u8
-#EXTINF:0 tvg-rec="3",СТБ UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6304/index.m3u8
-#EXTINF:0 tvg-rec="0",СТБ HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/15122/index.m3u8
-#EXTINF:0 tvg-rec="3",Інтер UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6305/index.m3u8
-#EXTINF:0 tvg-rec="3",Xsport UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6309/index.m3u8
-#EXTINF:0 tvg-rec="3",Еспресо UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6311/index.m3u8
-#EXTINF:0 tvg-rec="3",Sport 1 UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6313/index.m3u8
-#EXTINF:0 tvg-rec="3",Sport 2 UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6314/index.m3u8
-#EXTINF:0 tvg-rec="3",1+1 Марафон HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6317/index.m3u8
-#EXTINF:0 tvg-rec="3",Еспресо HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6321/index.m3u8 
-#EXTINF:0 tvg-rec="0",Пiксель TV HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/15127/index.m3u8 
-#EXTINF:0 tvg-rec="3",8 Канал FHD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6327/index.m3u8
-#EXTINF:0 tvg-rec="3",Бігуді UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6330/index.m3u8
-#EXTINF:0 tvg-rec="3",NIKI Kids HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6332/index.m3u8
-#EXTINF:0 tvg-rec="3",NIKI Junior HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6333/index.m3u8
-#EXTINF:0 tvg-rec="3",М1 HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6334/index.m3u8
-#EXTINF:0 tvg-rec="3",М2 HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6335/index.m3u8
-#EXTINF:0 tvg-rec="3",ICTV UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6339/index.m3u8
-#EXTINF:0 tvg-rec="3",Апостроф TV HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6373/index.m3u8
-#EXTINF:0 tvg-rec="3",Оце HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6375/index.m3u8
-#EXTINF:0 tvg-rec="3",Перший HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6376/index.m3u8
-#EXTINF:0 tvg-rec="3",ТЕТ HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6377/index.m3u8
-#EXTINF:0 tvg-rec="3",2+2 HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6378/index.m3u8
-#EXTINF:0 tvg-rec="3",ПлюсПлюс HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6379/index.m3u8
-#EXTINF:0 tvg-rec="3",Оце UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/6380/index.m3u8
-#EXTINF:0 tvg-rec="3",Еспресо FHD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/9073/index.m3u8
-#EXTINF:0 tvg-rec="0",Перший Автомобільний HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/7228/index.m3u8
-#EXTINF:0 tvg-rec="0",Xsport+ HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/15261/index.m3u8
-#EXTINF:0 tvg-rec="0",Star Cinema FHD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/15262/index.m3u8
-#EXTINF:0 tvg-rec="0",FilmBox ArtHouse
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/15265/index.m3u8
-#EXTINF:0 tvg-rec="0",FilmBox UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/15266/index.m3u8
-#EXTINF:0 tvg-rec="0",Enter-фільм HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/15273/index.m3u8
-#EXTINF:0 tvg-rec="0",Eco TV UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/15275/index.m3u8
-#EXTINF:0 tvg-rec="0",EU Music FHD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/15277/index.m3u8
-#EXTINF:0 tvg-rec="0",4ever Music UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/15278/index.m3u8
-#EXTINF:0 tvg-rec="0",Масон ТВ HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31729/index.m3u8
-#EXTINF:0 tvg-rec="0",Ми Україна UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31731/index.m3u8
-#EXTINF:0 tvg-rec="0",НТА HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31732/index.m3u8
-#EXTINF:0 tvg-rec="0",Наука UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31733/index.m3u8
-#EXTINF:0 tvg-rec="0",Obozrevatel TV FHD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31734/index.m3u8
-#EXTINF:0 tvg-rec="0",Перший Міський HD (Кривий Ріг) UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31736/index.m3u8
-#EXTINF:0 tvg-rec="0",Рибалка HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31743/index.m3u8
-#EXTINF:0 tvg-rec="0",Суспільне Спорт HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31750/index.m3u8
-#EXTINF:0 tvg-rec="0",Суспільне Спорт FHD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31751/index.m3u8
-#EXTINF:0 tvg-rec="0",Суспільне Крим FHD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31746/index.m3u8
-#EXTINF:0 tvg-rec="0",Суспільне Київ HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31745/index.m3u8
-#EXTINF:0 tvg-rec="0",Перший Західний HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31752/index.m3u8
-#EXTINF:0 tvg-rec="0",Терра UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31753/index.m3u8 
-#EXTINF:0 tvg-rec="0",4ever Cinema HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31788/index.m3u8
-#EXTINF:0 tvg-rec="0",Cine+ HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31794/index.m3u8
-#EXTINF:0 tvg-rec="0",Cine+ Kids HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31796/index.m3u8
-#EXTINF:0 tvg-rec="0",Cine+ Hit HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31795/index.m3u8
-#EXTINF:0 tvg-rec="0",Cine+ Legend HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31797/index.m3u8
-#EXTINF:0 tvg-rec="0",AMC UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31792/index.m3u8
-#EXTINF:0 tvg-rec="0",36.6 TV UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31787/index.m3u8
-#EXTINF:0 tvg-rec="0",Київ HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31781/index.m3u8
-#EXTINF:0 tvg-rec="0",Viasat Kino World
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31767/index.m3u8
-#EXTINF:0 tvg-rec="0",Уніaн Серіал UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31726/index.m3u8
-#EXTINF:0 tvg-rec="0",Армія TV HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31771/index.m3u8
-#EXTINF:0 tvg-rec="0",Kinowood HD
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31817/index.m3u8
-#EXTINF:0 tvg-rec="0",Da Vinci HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31799/index.m3u8
-#EXTINF:0 tvg-rec="0",Аверс UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31770/index.m3u8
-#EXTINF:0 tvg-rec="0",Equalympic HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31802/index.m3u8
-#EXTINF:0 tvg-rec="0",6 Соток UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31790/index.m3u8
-#EXTINF:0 tvg-rec="0",Дім UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31776/index.m3u8
-#EXTINF:0 tvg-rec="0",Divi Sport HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31800/index.m3u8 
-#EXTINF:0 tvg-rec="0",11 Канал HD (Дніпро) UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31785/index.m3u8 
-#EXTINF:0 tvg-rec="0",1+1 Україна HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31784/index.m3u8
-#EXTINF:0 tvg-rec="0",Fashion TV HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31804/index.m3u8
-#EXTINF:0 tvg-rec="0",Kinosweet HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31816/index.m3u8
-#EXTINF:0 tvg-rec="0",Галичина HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31772/index.m3u8
-#EXTINF:0 tvg-rec="0",Українське радіо 1 UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31724/index.m3u8
-#EXTINF:0 tvg-rec="0",Українське радіо 3 UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31725/index.m3u8
-#EXTINF:0 tvg-rec="0",Фауна UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31727/index.m3u8
-#EXTINF:0 tvg-rec="0",Kvartal TV HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31780/index.m3u8
-#EXTINF:0 tvg-rec="0",UTravel HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31762/index.m3u8
-#EXTINF:0 tvg-rec="0",Viasat Kino Comedy HD
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31764/index.m3u8
-#EXTINF:0 tvg-rec="0",Viasat Nature CEE HD
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31766/index.m3u8
-#EXTINF:0 tvg-rec="0",Viasat Kino HD
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31765/index.m3u8
-#EXTINF:0 tvg-rec="0",Рада HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31739/index.m3u8
-#EXTINF:0 tvg-rec="0",Радіо ТВА (Чернівці) UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31740/index.m3u8
-#EXTINF:0 tvg-rec="0",Радіо Закарпаття FM UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31741/index.m3u8
-#EXTINF:0 tvg-rec="0",Радіо Промінь UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31742/index.m3u8
-#EXTINF:0 tvg-rec="0",ЕТНО Канал HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31777/index.m3u8
-#EXTINF:0 tvg-rec="0",Закон ТВ HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31778/index.m3u8
-#EXTINF:0 tvg-rec="0",Ісландія HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31769/index.m3u8
-#EXTINF:0 tvg-rec="0",Світло HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31744/index.m3u8
-#EXTINF:0 tvg-rec="0",Bolt HD UA
-#EXTGRP:Украина | Українські
-http://f7141941.edmonst.net/iptv/6AMXT6SPZM4CBC/31793/index.m3u8
+#EXTM3U
+#EXTINF:0,Інтер+ HD
+http://ott.watch/stream/DZZPCCW11QW/345.m3u8
+#EXTINF:0,Новий канал HD
+http://ott.watch/stream/DZZPCCW11QW/157.m3u8
+#EXTINF:0,ICTV 2 HD
+http://ott.watch/stream/DZZPCCW11QW/368.m3u8
+#EXTINF:0,СТБ HD
+http://ott.watch/stream/DZZPCCW11QW/156.m3u8
+#EXTINF:0,2+2 HD
+http://ott.watch/stream/DZZPCCW11QW/173.m3u8
+#EXTINF:0,FILMUADRAMA HD
+http://ott.watch/stream/DZZPCCW11QW/273.m3u8
+#EXTINF:0,UA: Культура HD
+http://ott.watch/stream/DZZPCCW11QW/435.m3u8
+#EXTINF:0,К1 HD
+http://ott.watch/stream/DZZPCCW11QW/270.m3u8
+#EXTINF:0,Міледі ТВ
+http://ott.watch/stream/DZZPCCW11QW/210.m3u8
+#EXTINF:0,ТЕТ HD
+http://ott.watch/stream/DZZPCCW11QW/338.m3u8
+#EXTINF:0,1+1 International
+http://ott.watch/stream/DZZPCCW11QW/105.m3u8
+#EXTINF:0,ОЦЕ HD
+http://ott.watch/stream/DZZPCCW11QW/329.m3u8
+#EXTINF:0,Кус-кус HD
+http://ott.watch/stream/DZZPCCW11QW/195.m3u8
+#EXTINF:0,НТН HD
+http://ott.watch/stream/DZZPCCW11QW/326.m3u8
+#EXTINF:0,36.6 HD
+http://ott.watch/stream/DZZPCCW11QW/331.m3u8
+#EXTINF:0,Прованс ТВ
+http://ott.watch/stream/DZZPCCW11QW/199.m3u8
+#EXTINF:0,Квартал ТВ
+http://ott.watch/stream/DZZPCCW11QW/321.m3u8
+#EXTINF:0,Дім HD
+http://ott.watch/stream/DZZPCCW11QW/383.m3u8
+#EXTINF:0,Bolt HD
+http://ott.watch/stream/DZZPCCW11QW/73.m3u8
+#EXTINF:0,Караван ТВ
+http://ott.watch/stream/DZZPCCW11QW/190.m3u8
+#EXTINF:0,ПлюсПлюс HD
+http://ott.watch/stream/DZZPCCW11QW/339.m3u8
+#EXTINF:0,Бiгудi
+http://ott.watch/stream/DZZPCCW11QW/340.m3u8
+#EXTINF:0,Машина Часу HD
+http://ott.watch/stream/DZZPCCW11QW/140.m3u8
+#EXTINF:0,Знаєм 24 HD
+http://ott.watch/stream/DZZPCCW11QW/145.m3u8
+#EXTINF:0,Наталі ТВ
+http://ott.watch/stream/DZZPCCW11QW/203.m3u8
+#EXTINF:0,Вікторина
+http://ott.watch/stream/DZZPCCW11QW/146.m3u8
+#EXTINF:0,Невигадані Історії HD
+http://ott.watch/stream/DZZPCCW11QW/159.m3u8
+#EXTINF:0,Про Київ HD
+http://ott.watch/stream/DZZPCCW11QW/160.m3u8
+#EXTINF:0,Ми - Україна HD
+http://ott.watch/stream/DZZPCCW11QW/442.m3u8
+#EXTINF:0,ECO TV HD
+http://ott.watch/stream/DZZPCCW11QW/222.m3u8
+#EXTINF:0,Армія TV HD
+http://ott.watch/stream/DZZPCCW11QW/468.m3u8
+#EXTINF:0,Інтер HD
+http://ott.watch/stream/DZZPCCW11QW/174.m3u8
+#EXTINF:0,ICTV HD
+http://ott.watch/stream/DZZPCCW11QW/158.m3u8
+#EXTINF:0,1+1 HD
+http://ott.watch/stream/DZZPCCW11QW/172.m3u8
+#EXTINF:0,1+1 Україна HD
+http://ott.watch/stream/DZZPCCW11QW/219.m3u8
+#EXTINF:0,К2 HD
+http://ott.watch/stream/DZZPCCW11QW/324.m3u8
+#EXTINF:0,UA: Київ HD
+http://ott.watch/stream/DZZPCCW11QW/439.m3u8
+#EXTINF:0,UA: Крим HD
+http://ott.watch/stream/DZZPCCW11QW/436.m3u8
+#EXTINF:0,UA: Перший HD
+http://ott.watch/stream/DZZPCCW11QW/437.m3u8
+#EXTINF:0,Zoom HD
+http://ott.watch/stream/DZZPCCW11QW/327.m3u8
+#EXTINF:0,Уніан HD
+http://ott.watch/stream/DZZPCCW11QW/341.m3u8
