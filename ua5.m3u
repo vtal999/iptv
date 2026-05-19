@@ -63,3 +63,146 @@ http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
 https://stream.ntktv.ua/s/ntk/ntk.m3u8?cur=tva.org.ua&key=3i277
 #EXTINF:-1 group-title="🇺🇦УКРАЇНА🇺🇦" tvg-logo="http://epg.it999.ru/img/2198.png",НТА HD (Львів)
 http://iptv.prosto.tv:7000/ch263/video.m3u8?secret=kp7brelm
+
+
+#EXTINF:-1,1+1
+#EXTM3U url-tvg=https://iptvx.one/epg/epg.xml.gz
+http://am02.plinks-pile.su/151/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,1+1 International
+http://am02.plinks-pile.su/17452/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,BOLT
+http://am02.plinks-pile.su/195/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,СТБ HD
+http://am02.plinks-pile.su/1160/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,СТБ
+http://am02.plinks-pile.su/160/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Интер
+http://am02.plinks-pile.su/153/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,2+2
+http://am02.plinks-pile.su/152/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,ТЕТ
+http://am02.plinks-pile.su/164/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,ICTV HD
+http://am02.plinks-pile.su/1159/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,ICTV
+http://am02.plinks-pile.su/159/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,ICTV 2 HD
+http://am02.plinks-pile.su/17451/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Новий канал HD
+http://am02.plinks-pile.su/1194/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Новий канал
+http://am02.plinks-pile.su/194/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Мега
+http://am02.plinks-pile.su/171/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,К1
+http://am02.plinks-pile.su/158/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,К2
+http://am02.plinks-pile.su/169/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,НТН
+http://am02.plinks-pile.su/157/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Квартал ТВ
+http://am02.plinks-pile.su/173/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Спорт 1
+http://am02.plinks-pile.su/162/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Спорт 2
+http://am02.plinks-pile.su/17433/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Спорт 3 HD
+http://am02.plinks-pile.su/17432/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,XSPORT
+http://am02.plinks-pile.su/185/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,XSPORT Plus HD
+http://am02.plinks-pile.su/161/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Setanta Sports HD [UA]
+http://am02.plinks-pile.su/17434/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Setanta Sports + [UA]
+http://am02.plinks-pile.su/17435/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,UPL TV HD [UA]
+http://am02.plinks-pile.su/17436/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Суспільне Спорт HD [UA]
+http://am02.plinks-pile.su/17439/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Star Cinema HD
+http://am02.plinks-pile.su/17437/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Star Family HD
+http://am02.plinks-pile.su/17438/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Оце
+http://am02.plinks-pile.su/17441/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Апостроф TV
+http://am02.plinks-pile.su/17447/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Суспільне Культура
+http://am02.plinks-pile.su/17448/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Перший Автомобільний
+http://am02.plinks-pile.su/184/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,M1
+http://am02.plinks-pile.su/175/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,M2
+http://am02.plinks-pile.su/176/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,ПлюсПлюс
+http://am02.plinks-pile.su/163/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,NIKI Kids
+http://am02.plinks-pile.su/193/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,NIKI Junior
+http://am02.plinks-pile.su/192/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,EU Music
+http://am02.plinks-pile.su/191/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Піксель
+http://am02.plinks-pile.su/166/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,LALE
+http://am02.plinks-pile.su/189/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,ATR
+http://am02.plinks-pile.su/187/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,ZOOM [UA]
+http://am02.plinks-pile.su/170/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Тернопіль 1
+http://am02.plinks-pile.su/186/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Сонце
+http://am02.plinks-pile.su/183/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Дача
+http://am02.plinks-pile.su/188/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Enter-фільм
+http://am02.plinks-pile.su/167/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Надія
+http://am02.plinks-pile.su/182/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,24 канал
+http://am02.plinks-pile.su/179/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,5 канал [UA]
+http://am02.plinks-pile.su/165/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,English Club TV [UA]
+http://am02.plinks-pile.su/190/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Eспресо TV
+http://am02.plinks-pile.su/154/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,UA:Перший
+http://am02.plinks-pile.su/196/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Прямий HD
+http://am02.plinks-pile.su/199/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Рыбалка HD
+http://am02.plinks-pile.su/180/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Кус-Кус
+http://am02.plinks-pile.su/17444/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Твоє кіно. Relax
+http://am02.plinks-pile.su/17453/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Твоє кіно. Хіт
+http://am02.plinks-pile.su/17454/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Твоє кіно. Action
+http://am02.plinks-pile.su/17455/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,LIBERTY КИНО UKR FHD
+http://am02.plinks-pile.su/8044/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,LIBERTY КИНО UKR 4K
+http://am02.plinks-pile.su/8019/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,LIBERTY МУЛЬТ UKR FHD
+http://am02.plinks-pile.su/8045/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,LIBERTY МУЛЬТ UKR 4K
+http://am02.plinks-pile.su/8018/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Clarity4K Ukrainian music
+http://am02.plinks-pile.su/20912/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,VOX MUSIC TV
+http://am02.plinks-pile.su/16919/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Disco Polo Music
+http://am02.plinks-pile.su/19125/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Polsat Music
+http://am02.plinks-pile.su/778/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,Kino Polska Muzyka
+http://am02.plinks-pile.su/719/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,MTV Live HD
+http://am02.plinks-pile.su/23409/index.m3u8?token=eFeyWPCHbbpAAw
+#EXTINF:-1,MTV POLSKA
+http://am02.plinks-pile.su/23407/index.m3u8?token=eFeyWPCHbbpAAw
